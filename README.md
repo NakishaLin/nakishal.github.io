@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
-
+CIT 281 
 
 [Lab1](https://nakishalin.github.io/cit281-lab-1/)
-
+[Lab2](https://nakishalin.github.io/cit281-lab-2/)
+[Lab3](https://nakishalin.github.io/cit281-lab-3/)
+[Lab4](https://nakishalin.github.io/cit281-lab-4/)
+[Lab5](https://nakishalin.github.io/cit281-lab-5/)
+[Lab6](https://nakishalin.github.io/cit281-lab-6/)
+[Lab7](https://nakishalin.github.io/cit281-lab-7/)
+[Lab8](https://nakishalin.github.io/cit281-lab-8/)
+[Lab9](https://nakishalin.github.io/cit281-lab-9/)
 
 
 
