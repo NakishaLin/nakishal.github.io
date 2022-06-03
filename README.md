@@ -1,5 +1,6 @@
 CIT 281 
 
+Labs
 [Lab1](https://nakishalin.github.io/cit281-lab-1/)
 
 [Lab2](https://nakishalin.github.io/cit281-lab-2/)
