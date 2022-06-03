@@ -20,8 +20,21 @@ LAB
 
 [Lab9](https://nakishalin.github.io/cit281-lab-9/)
 
+PROJECT
 
+[Project1]()
 
+[Project2]()
+
+[Project3]()
+
+[Project4]()
+
+[Project5]()
+
+[Project6]()
+
+[Project7]()
 
 You can use the [editor on GitHub](https://github.com/NakishaLin/nakishal.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
