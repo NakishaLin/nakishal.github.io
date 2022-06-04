@@ -22,19 +22,19 @@ LAB
 
 PROJECT
 
-[Project1]()
+[Project1](https://nakishalin.github.io/cit281-project-1/)
 
-[Project2]()
+[Project2](https://nakishalin.github.io/cit281-project-2/)
 
-[Project3]()
+[Project3](https://nakishalin.github.io/cit281-project-3/)
 
-[Project4]()
+[Project4](https://nakishalin.github.io/cit281-project-4/)
 
-[Project5]()
+[Project5](https://nakishalin.github.io/cit281-project-5/)
 
-[Project6]()
+[Project6](https://nakishalin.github.io/cit281-project-6/)
 
-[Project7]()
+[Project7](https://nakishalin.github.io/cit281-project-7/)
 
 You can use the [editor on GitHub](https://github.com/NakishaLin/nakishal.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
